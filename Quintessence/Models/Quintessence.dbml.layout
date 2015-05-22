@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Quintessence">
+  <DataContextMoniker Name="/QuintessenceDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f79fc71c-12bc-4050-9de8-020ead0e1405" absoluteBounds="0.5, 0.5, 2, 0.8093896484375">
+      <DataClassMoniker Name="/QuintessenceDataContext/Play" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c1596ec-53b4-4063-9c60-3169dc07c476" absoluteBounds="0.5, 0.5, 0.125, 0.2493896484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3900a578-d22a-4605-8047-ca4e2f110374" absoluteBounds="6, 2.125, 2, 0.8093896484375">
+      <DataClassMoniker Name="/QuintessenceDataContext/Word" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c94adf3e-5606-4c3a-848b-105e3b423278" absoluteBounds="6, 2.125, 0.125, 0.2493896484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="936ec7db-eb23-44f2-8f04-8fee0c007036" absoluteBounds="6, 0.5, 2, 0.8093896484375">
+      <DataClassMoniker Name="/QuintessenceDataContext/PlayType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bde01571-3d59-4cac-a988-70a06f54d048" absoluteBounds="6, 0.5, 0.125, 0.2493896484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3c060192-2203-43e5-972a-43385f114901" absoluteBounds="2.5, 2, 2, 0.8093896484375">
+      <DataClassMoniker Name="/QuintessenceDataContext/Line" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28a46bdd-0cb9-45c7-8de7-51d7d0de1b3a" absoluteBounds="2.5, 2, 0.125, 0.2493896484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,21 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quintessence | @ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/Scripts")
+    @RenderSection("Head", false)
+</head>
+    <body>
+        <div id="main">
+            @RenderBody()
+            <footer>
+                <p>
+                    Quintessence
+                </p>
+            </footer>
+        </div>
+        @RenderSection("Scripts", false)
+    </body>
+</html>

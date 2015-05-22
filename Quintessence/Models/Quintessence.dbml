@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Class="QuintessenceDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="" Member="Plays">
+    <Type Name="Play" />
+  </Table>
+  <Table Name="" Member="Words">
+    <Type Name="Word" />
+  </Table>
+  <Table Name="" Member="PlayTypes">
+    <Type Name="PlayType" />
+  </Table>
+  <Table Name="" Member="Lines">
+    <Type Name="Line" />
+  </Table>
+</Database>
